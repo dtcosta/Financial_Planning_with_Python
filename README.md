@@ -1,4 +1,6 @@
-# Unit 5 - Financial Planning
+# Financial Planning with Python and APIs
+
+![Financial Planner](financial-planner.png)
 
 ## Background
 
@@ -11,3 +13,25 @@ In this homework activity, you will use all the skills you have learned until no
 The first will be a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 
 The second tool will be a retirement planning tool that will use the Alpaca API to fetch historical closing prices for a retirement portfolio composed of stocks and bonds, then run Monte Carlo simulations to project the portfolio performance at 30 years. You will then use the Monte Carlo data to calculate the expected portfolio returns given a specific initial investment amount.
+
+### Files
+
+* [Personal Finance Planner starter code](Starter_Code/financial-planner.ipynb)
+
+* [MCForecastTools toolkit](Starter_Code/MCForecastTools.py)
+
+---
+
+### Resources
+
+This homework will utilize two APIs:
+
+* The **Alpaca Markets API** will be used to pull historical stocks and bonds information.  
+    
+* The **Alternative Free Crypto API** will be used to retrieve Bitcoin and Ethereum prices.
+
+The documentation for these APIs can be found via the following links:
+
+* [Free Crypto API Documentation](https://alternative.me/crypto/api/)
+
+* [AlpacaDOCS](https://alpaca.markets/docs/)
