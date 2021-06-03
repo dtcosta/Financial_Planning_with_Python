@@ -1,6 +1,6 @@
 # Financial Planning with Python and APIs
 
-![Financial Planner](financial-planner.png)
+![Financial Planner](Images/financial-planner.png)
 
 ## Background
 
