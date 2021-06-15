@@ -8,7 +8,7 @@ You decided to start a FinTech consultancy firm, and you want to make a differen
 
 The credit union board wants to allow the union's members to assess their monthly personal finances, and also be able to forecast a reasonably good retirement plan based on cryptocurrencies, stocks, and bonds.
 
-In this homework activity, you will use all the skills you have learned until now - focusing on using APIs as part of the technical solution - to create two financial analysis tools.
+You will use all the skills you have learned until now - focusing on using APIs as part of the technical solution - to create two financial analysis tools.
 
 The first will be a personal finance planner that will allow users to visualize their savings composed by investments in shares and cryptocurrencies to assess if they have enough money as an emergency fund.
 
@@ -23,8 +23,6 @@ The second tool will be a retirement planning tool that will use the Alpaca API 
 ---
 
 ### Resources
-
-This homework will utilize two APIs:
 
 * The **Alpaca Markets API** will be used to pull historical stocks and bonds information.  
     
